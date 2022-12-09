@@ -1,0 +1,54 @@
+.quiz_wrapper
+{
+    overflow: hidden;
+    
+    width: 700px;
+    height: 520px;
+}
+.quiz_field
+{
+    
+    display: flex;
+    
+}
+.quiz_item1
+{
+    min-width: 700px;
+    height: 520px;
+    background-color: blue;
+    transition: all 0.7s;
+}
+.quiz_item2
+{
+    min-width: 700px;
+    height: 520px;
+    background-color: rgb(0, 238, 255);
+    transition: all 0.7s;
+}
+.quiz_item3
+{
+    min-width: 700px;
+    height: 520px;
+    background-color: rgb(255, 0, 179);
+    transition: all 0.7s;
+}
+.quiz_item4
+{   
+    min-width: 700px;
+    height: 520px;
+    background-color: rgb(255, 230, 0);
+    transition: all 0.7s;
+}
+.btn
+{
+    width: 40px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    transition: all 0.7s;
+    
+    
+}
+.img
+{width: 300px;
+height: 200px;}
